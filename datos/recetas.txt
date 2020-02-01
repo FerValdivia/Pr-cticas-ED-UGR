@@ -1,0 +1,21 @@
+R1;1;Ensalada Mixta;Lechuga 200;Tomate 50;Pepino 50;Cebolla 50;Aceite Oliva 5;Vinagre De Vino 10;Sal 1
+R2;1;Ensaladilla Rusa;Patata cocida 100;Zanahoria 50;Judia Verde 50;Huevo Duro 100;Mayonesa 125;Sal 1
+R3;1;Revuelto de Acelgas;Acelgas 250;Huevo 50;Ajo 4;Pimiento 15;Aceite Oliva 25;Sal 1
+R4;1;Salteado de Brocoli con Jamon;Jamon Serrano 100;Brocoli 500;Ajo 20;Aceite Oliva 20;Sal 1
+R5;1;Crema de Calabacin;Patata 250;Pimiento 100;Cebolla 200;Calabacin 250;Aceite Oliva 20;Queso Quark 50;Sal 1
+R6;1;Salmorejo;Huevo Cocido 50;Tomate 125;Vinagre De Vino 5;Aceite Oliva 5;Ajo 5;Sal 1;Pan Blanco 75
+R7;1;Ajo Blanco;Almendras 100;Ajo 10;Pan Blanco 50;Agua 1000;Aceite Oliva 15;Vinagre De Vino 20;Sal 1
+R8;1;Crema de Puerros;Puerro 250;Patata 125;Ajo 5;Aceite Oliva 5;Mantequilla 15;Agua 1500;Sal 1
+R9;1;Macarrones con Tomate;Macarrones 250;Tomate Frito 400;Cebolla 25;Queso Mozzarella 25;Sal 1;Aceite Oliva 10
+R10;1;Cocido;Garbanzos 200;Zanahoria 50;Judia Verde 50;Calabaza 100;Patata 100;Sal 1;Agua 2000
+R11;2;Merluza al Horno;Merluza 200;Ajo 25;Aceite Oliva 10;Limon 25;Perejil 10;Sal 1
+R12;2;Tofu a la Pimienta;Tofu 200;Nata Liquida para Cocinar 200;Pimienta 10;Aceite Oliva 15
+R13;2;Bacalao con Tomate;Bacalao Fresco 450;Harina Trigo, Integral 25;Cebolla 200;Tomate Frito 250;Pimiento 100;Aceite Oliva 150;Sal 1
+R14;2;Guisante con Huevo;Huevo 100;Guisantes Frescos 500;Aceite Oliva 50;Cebolla 50;Tomate 100;Sal 1
+R15;2;Hamburguesas de Tofu;Tofu 270;Huevo 75;Ajo 25;Pimienta 15;Sal 1;Pan Integral 15;Avena, Salvado 100;Oregano 5;Aceite Oliva 25
+R16;2;Cuscus con Pimiento;Pimiento 300;Aceite Oliva 25;Puerro 25;Cebolla 25;Cuscus 200;Sal 1
+R17;3;Batido de Platano;Canela 5;Azucar Morena 10;Platano 75;Leche Vaca, Semidesnatada 150
+R18;3;Macedonia de Futas;Platano 30;Manzana 30;Kiwi 30;Naranja 50;Estevia 10
+R19;3;Flan;Flan Huevo, De 150
+R20;3;Yogourth a la Miel;Miel 50;Yogur Desnatado 100
+R21;1;Arroz a la Cubana;Arroz Integral 200;Sal 1;Tomate Frito 200;Huevo 50;Platano 75

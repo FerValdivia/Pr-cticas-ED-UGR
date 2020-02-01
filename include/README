@@ -1,0 +1,4 @@
+color.h
+Contiene definiciones para poder escribir con style.
+Por ejemplo para escribir con subrayado y en negrita podemos hacerlo
+cout<<UNDL(BOLD("Información Nutricional:"))<<endl<<endl;

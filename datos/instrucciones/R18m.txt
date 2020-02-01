@@ -1,0 +1,14 @@
+Pelar Platano
+Cortar
+Emplatar
+Pelar Manzana
+Cortar
+Mezclar
+Pelar Kiwi
+Cortar
+Mezclar
+Pelar Naranja
+Cortar
+Mezclar
+Add Estevia
+

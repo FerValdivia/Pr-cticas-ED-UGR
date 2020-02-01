@@ -1,0 +1,15 @@
+Cortar 1
+Mezclar 2
+Pelar 1
+Add 2
+Calentar 1
+Reservar 1
+Triturar 1
+Cocer 1
+Hornear 1
+Enharinar 1
+Freir 1
+Formar 1
+Emplatar 1
+Acompañar 2
+
